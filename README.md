@@ -1,0 +1,1 @@
+This is Seth's first assignment for The Odin Project. I will be trying to recreate the Google homepage.
